@@ -16,7 +16,7 @@ export default function Post() {
       transition={{ duration: 0.3 }}>
      <Link 
   href="/" 
-  style={{ color: '#fff', backgroundColor: '#f00', padding: '10px' }}
+  style={{ color: '#fff', backgroundColor: '#f00', padding: '10px', marginBottom:'10px' }}
 >
   Back
 </Link>
